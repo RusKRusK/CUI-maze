@@ -9,8 +9,8 @@
 #include <math.h>
 #include <sys/ioctl.h>
 
-#define FIELD_HEIGHT 24         //フィールドの高さ(奇数)
-#define FIELD_WIDTH 24          //フィールドの幅(奇数)
+#define FIELD_HEIGHT 25         //フィールドの高さ(奇数)
+#define FIELD_WIDTH 25          //フィールドの幅(奇数)
 #define RAD_ADD 3               //角度の増分
 #define MV_ADD 0.1              //移動の増分
 #define COLLISION 0             //当たり判定
